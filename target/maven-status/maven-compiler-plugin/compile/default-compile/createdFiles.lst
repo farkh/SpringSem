@@ -1,0 +1,16 @@
+com/springapp/mvc/DAO/UserDaoImpl.class
+com/springapp/mvc/DAO/BookDao.class
+com/springapp/mvc/model/Book.class
+com/springapp/mvc/controllers/LoginController.class
+com/springapp/mvc/DAO/BookDaoImpl.class
+Main.class
+com/springapp/mvc/service/BookService.class
+com/springapp/mvc/DAO/UserDao.class
+com/springapp/mvc/config/Initializer.class
+com/springapp/mvc/security/UserDetailsServiceImpl.class
+com/springapp/mvc/config/SecurityConfig.class
+com/springapp/mvc/model/User.class
+com/springapp/mvc/service/BookServiceImpl.class
+com/springapp/mvc/model/UserRoleEnum.class
+com/springapp/mvc/config/SpringConfig.class
+com/springapp/mvc/controllers/BookController.class

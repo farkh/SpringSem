@@ -1,0 +1,16 @@
+/home/ismagilov/clonned_repositories/Spring/src/main/java/com/springapp/mvc/controllers/LoginController.java
+/home/ismagilov/clonned_repositories/Spring/src/main/java/com/springapp/mvc/service/BookService.java
+/home/ismagilov/clonned_repositories/Spring/src/main/java/Main.java
+/home/ismagilov/clonned_repositories/Spring/src/main/java/com/springapp/mvc/model/Book.java
+/home/ismagilov/clonned_repositories/Spring/src/main/java/com/springapp/mvc/model/UserRoleEnum.java
+/home/ismagilov/clonned_repositories/Spring/src/main/java/com/springapp/mvc/DAO/BookDaoImpl.java
+/home/ismagilov/clonned_repositories/Spring/src/main/java/com/springapp/mvc/config/SecurityConfig.java
+/home/ismagilov/clonned_repositories/Spring/src/main/java/com/springapp/mvc/DAO/BookDao.java
+/home/ismagilov/clonned_repositories/Spring/src/main/java/com/springapp/mvc/controllers/BookController.java
+/home/ismagilov/clonned_repositories/Spring/src/main/java/com/springapp/mvc/service/BookServiceImpl.java
+/home/ismagilov/clonned_repositories/Spring/src/main/java/com/springapp/mvc/security/UserDetailsServiceImpl.java
+/home/ismagilov/clonned_repositories/Spring/src/main/java/com/springapp/mvc/model/User.java
+/home/ismagilov/clonned_repositories/Spring/src/main/java/com/springapp/mvc/config/Initializer.java
+/home/ismagilov/clonned_repositories/Spring/src/main/java/com/springapp/mvc/DAO/UserDaoImpl.java
+/home/ismagilov/clonned_repositories/Spring/src/main/java/com/springapp/mvc/DAO/UserDao.java
+/home/ismagilov/clonned_repositories/Spring/src/main/java/com/springapp/mvc/config/SpringConfig.java
